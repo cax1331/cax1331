@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Christian Apodaca
 
-🎯 **QA Analyst** | Info Systems Engineer | Manual & Automation Testing | Selenium, Postman, Python | Agile, CI/CD, Jira
+🎯 **QA Analyst** | Software Engineering | Manual & Automation Testing | Selenium, Postman, Python | Agile, CI/CD, Jira
 
 📍 Based in Hermosillo, México | 🌎 Fluent in English (C1) & Spanish (native)
 
