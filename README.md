@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Christian Apodaca
 
-🎯 **QA Analyst** | Software Engineer | Manual & Automation Testing | Selenium, Postman, Python | Agile, CI/CD, Jira
+🎯 Software Engineer | **QA Analyst** | Manual & Automation Testing | Selenium, Postman, Python | Agile, CI/CD, Jira
 
 📍 Based in Hermosillo, México | 🌎 Fluent in English (C1) & Spanish (native)
 
@@ -26,12 +26,9 @@
 
 ## 🧪 About Me
 
-I'm a QA Analyst with hands-on experience in **functional testing**, **regression testing**, **API validation**, and **UI automation**.  
-I specialize in analyzing application flows to design effective test cases, detect critical bugs, and ensure software quality across platforms.
+**Software Engineer turned QA Analyst**, with hands-on experience in functional and regression testing, UI automation, and agile teamwork. I bring a systems-thinking mindset to analyzing application flows, designing test cases, catching critical bugs, and documenting clear, actionable improvements. I’m skilled in tools like Postman, Jira, and Selenium, and my earlier roles in tech support and quality supervision strengthened my eye for detail, structured communication, and user-first thinking. I’m passionate about building reliable, user-friendly software and continuously improving how we test and deliver it.
 
-My background in **technical support** and **quality supervision** has equipped me with a strong foundation in **attention to detail**, **documentation**, and **collaborative problem solving**. I thrive in agile environments and continuously look for ways to improve processes and user experiences.
-
-🚀 Currently seeking opportunities as a **QA Engineer** in dynamic teams that value quality, growth, and teamwork.
+🚀 Currently seeking opportunities as a QA Engineer where I can grow, contribute, and collaborate with teams that value quality and curiosity.
 
 ---
 
