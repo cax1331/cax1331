@@ -26,7 +26,7 @@
 
 ## 🧪 About Me
 
-**Software Engineer turned QA Analyst**, with hands-on experience in functional and regression testing, UI automation, and agile teamwork. I bring a systems-thinking mindset to analyzing application flows, designing test cases, catching critical bugs, and documenting clear, actionable improvements. I’m skilled in tools like Postman, Jira, and Selenium, and my earlier roles in tech support and quality supervision strengthened my eye for detail, structured communication, and user-first thinking. I’m passionate about building reliable, user-friendly software and continuously improving how we test and deliver it.
+**Software Engineer and QA Analyst**, with hands-on experience in functional and regression testing, UI automation, and agile teamwork. I bring a systems-thinking mindset to analyzing application flows, designing test cases, catching critical bugs, and documenting clear, actionable improvements. I’m skilled in tools like Postman, Jira, and Selenium, and my earlier roles in tech support and quality supervision strengthened my eye for detail, structured communication, and user-first thinking. I’m passionate about building reliable, user-friendly software and continuously improving how we test and deliver it. Comfortable working in international environments, I communicate fluently in English at an Advanced (C1) level.
 
 🚀 Currently seeking opportunities as a QA Engineer where I can grow, contribute, and collaborate with teams that value quality and curiosity.
 
